@@ -1,0 +1,13 @@
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.csprojAssemblyReference.cache
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.AssemblyInfoInputs.cache
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.AssemblyInfo.cs
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.csproj.CoreCompileInputs.cache
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.exe
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.deps.json
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.runtimeconfig.json
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.runtimeconfig.dev.json
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.dll
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\bin\Debug\netcoreapp3.1\KrasotaSalon.pdb
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.dll
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.pdb
+C:\Users\justw\source\repos\KrasotaSalon\KrasotaSalon\obj\Debug\netcoreapp3.1\KrasotaSalon.genruntimeconfig.cache
